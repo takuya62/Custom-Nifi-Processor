@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: group0.processors.CustomNifiProcessor.CustomNifiProcessorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.196 sec - in group0.processors.CustomNifiProcessor.CustomNifiProcessorTest
