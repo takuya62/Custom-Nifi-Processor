@@ -88,7 +88,7 @@ public class CustomNifiProcessor extends AbstractProcessor {
 		if ( flowFile == null ) {
 			return;
 		}
-
+		session.transfer(flowFile,MY_RELATIONSHIP);
         // TODO implement
 
     }
